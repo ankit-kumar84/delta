@@ -1,2 +1,2 @@
 # delta
-This is a first new file
+This is a first new file.
